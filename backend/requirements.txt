@@ -8,3 +8,4 @@ python-multipart
 pymysql
 alembic
 python-dotenv
+email-validator
