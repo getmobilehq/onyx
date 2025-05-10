@@ -1,5 +1,5 @@
 fastapi
-rm -rf node_modules package-lock.jsonuvicorn
+uvicorn
 sqlalchemy
 pydantic
 python-jose
