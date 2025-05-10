@@ -1,0 +1,9 @@
+fastapi
+rm -rf node_modules package-lock.jsonuvicorn
+sqlalchemy
+pydantic
+python-jose
+passlib[bcrypt]
+python-multipart
+pymysql
+alembic
